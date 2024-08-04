@@ -1,0 +1,298 @@
+[
+    {
+        "chapter": "Introduction to Mechanics",
+        "content": [
+            {
+                "question": "Mechanics is a branch of physics that explores the behavior of physical bodies influenced by forces or displacements.",
+                "answer": ["True"],
+                "difficulty": "Easy",
+                "type": "TF"
+            },
+            {
+                "question": "Who among the following is known for significant contributions to classical mechanics?",
+                "options": ["A. Albert Einstein", "B. Niels Bohr", "C. Isaac Newton", "D. Max Planck"],
+                "answer": ["C. Isaac Newton"],
+                "difficulty": "Easy",
+                "type": "MCQ"
+            },
+            {
+                "question": "Which of the following are fundamental concepts in mechanics?",
+                "options": ["A. Space", "B. Time", "C. Mass", "D. Color"],
+                "answer": ["A. Space", "B. Time", "C. Mass"],
+                "difficulty": "Easy",
+                "type": "MAQ"
+            },
+            {
+                "question": "Mechanics is foundational in ______, astronomy, biology, and everyday life.",
+                "answer": ["engineering"],
+                "difficulty": "Easy",
+                "type": "FITB"
+            },
+            {
+                "question": "If a car accelerates from rest to 20 m/s in 5 seconds, what is its acceleration? (Use a = Δv/Δt)",
+                "answer": ["4 m/s²"],
+                "difficulty": "Easy",
+                "type": "NUMERICAL"
+            }
+        ]
+    },
+    {
+        "chapter": "Kinematics",
+        "content": [
+            {
+                "question": "Mechanics is a branch of physics that explores the behavior of physical bodies influenced by forces or displacements.",
+                "answer": ["True"],
+                "difficulty": "Easy",
+                "type": "TF"
+            },
+            {
+                "question": "Who among the following is known for significant contributions to classical mechanics?",
+                "options": ["A. Albert Einstein", "B. Niels Bohr", "C. Isaac Newton", "D. Max Planck"],
+                "answer": ["C. Isaac Newton"],
+                "difficulty": "Easy",
+                "type": "MCQ"
+            },
+            {
+                "question": "Which of the following are fundamental concepts in mechanics?",
+                "options": ["A. Space", "B. Time", "C. Mass", "D. Color"],
+                "answer": ["A. Space", "B. Time", "C. Mass"],
+                "difficulty": "Easy",
+                "type": "MAQ"
+            },
+            {
+                "question": "Mechanics is foundational in ______, astronomy, biology, and everyday life.",
+                "answer": ["engineering"],
+                "difficulty": "Easy",
+                "type": "FITB"
+            },
+            {
+                "question": "If a car accelerates from rest to 20 m/s in 5 seconds, what is its acceleration? (Use a = Δv/Δt)",
+                "answer": ["4 m/s²"],
+                "difficulty": "Easy",
+                "type": "NUMERICAL"
+            }
+        ]
+    },
+    {
+        "chapter": "Dynamics",
+        "content": [
+            {
+                "question": "Mechanics is a branch of physics that explores the behavior of physical bodies influenced by forces or displacements.",
+                "answer": ["True"],
+                "difficulty": "Easy",
+                "type": "TF"
+            },
+            {
+                "question": "Who among the following is known for significant contributions to classical mechanics?",
+                "options": ["A. Albert Einstein", "B. Niels Bohr", "C. Isaac Newton", "D. Max Planck"],
+                "answer": ["C. Isaac Newton"],
+                "difficulty": "Easy",
+                "type": "MCQ"
+            },
+            {
+                "question": "Which of the following are fundamental concepts in mechanics?",
+                "options": ["A. Space", "B. Time", "C. Mass", "D. Color"],
+                "answer": ["A. Space", "B. Time", "C. Mass"],
+                "difficulty": "Easy",
+                "type": "MAQ"
+            },
+            {
+                "question": "Mechanics is foundational in ______, astronomy, biology, and everyday life.",
+                "answer": ["engineering"],
+                "difficulty": "Easy",
+                "type": "FITB"
+            },
+            {
+                "question": "If a car accelerates from rest to 20 m/s in 5 seconds, what is its acceleration? (Use a = Δv/Δt)",
+                "answer": ["4 m/s²"],
+                "difficulty": "Easy",
+                "type": "NUMERICAL"
+            }
+        ]
+    },
+    {
+        "chapter": "Work, Energy, and Power",
+        "content": [
+            {
+                "question": "Mechanics is a branch of physics that explores the behavior of physical bodies influenced by forces or displacements.",
+                "answer": ["True"],
+                "difficulty": "Easy",
+                "type": "TF"
+            },
+            {
+                "question": "Who among the following is known for significant contributions to classical mechanics?",
+                "options": ["A. Albert Einstein", "B. Niels Bohr", "C. Isaac Newton", "D. Max Planck"],
+                "answer": ["C. Isaac Newton"],
+                "difficulty": "Easy",
+                "type": "MCQ"
+            },
+            {
+                "question": "Which of the following are fundamental concepts in mechanics?",
+                "options": ["A. Space", "B. Time", "C. Mass", "D. Color"],
+                "answer": ["A. Space", "B. Time", "C. Mass"],
+                "difficulty": "Easy",
+                "type": "MAQ"
+            },
+            {
+                "question": "Mechanics is foundational in ______, astronomy, biology, and everyday life.",
+                "answer": ["engineering"],
+                "difficulty": "Easy",
+                "type": "FITB"
+            },
+            {
+                "question": "If a car accelerates from rest to 20 m/s in 5 seconds, what is its acceleration? (Use a = Δv/Δt)",
+                "answer": ["4 m/s²"],
+                "difficulty": "Easy",
+                "type": "NUMERICAL"
+            }
+        ]
+    },
+    {
+        "chapter": "Momentum",
+        "content": [
+            {
+                "question": "Mechanics is a branch of physics that explores the behavior of physical bodies influenced by forces or displacements.",
+                "answer": ["True"],
+                "difficulty": "Easy",
+                "type": "TF"
+            },
+            {
+                "question": "Who among the following is known for significant contributions to classical mechanics?",
+                "options": ["A. Albert Einstein", "B. Niels Bohr", "C. Isaac Newton", "D. Max Planck"],
+                "answer": ["C. Isaac Newton"],
+                "difficulty": "Easy",
+                "type": "MCQ"
+            },
+            {
+                "question": "Which of the following are fundamental concepts in mechanics?",
+                "options": ["A. Space", "B. Time", "C. Mass", "D. Color"],
+                "answer": ["A. Space", "B. Time", "C. Mass"],
+                "difficulty": "Easy",
+                "type": "MAQ"
+            },
+            {
+                "question": "Mechanics is foundational in ______, astronomy, biology, and everyday life.",
+                "answer": ["engineering"],
+                "difficulty": "Easy",
+                "type": "FITB"
+            },
+            {
+                "question": "If a car accelerates from rest to 20 m/s in 5 seconds, what is its acceleration? (Use a = Δv/Δt)",
+                "answer": ["4 m/s²"],
+                "difficulty": "Easy",
+                "type": "NUMERICAL"
+            }
+        ]
+    },
+    {
+        "chapter": "Rotational Motion",
+        "content": [
+            {
+                "question": "Mechanics is a branch of physics that explores the behavior of physical bodies influenced by forces or displacements.",
+                "answer": ["True"],
+                "difficulty": "Easy",
+                "type": "TF"
+            },
+            {
+                "question": "Who among the following is known for significant contributions to classical mechanics?",
+                "options": ["A. Albert Einstein", "B. Niels Bohr", "C. Isaac Newton", "D. Max Planck"],
+                "answer": ["C. Isaac Newton"],
+                "difficulty": "Easy",
+                "type": "MCQ"
+            },
+            {
+                "question": "Which of the following are fundamental concepts in mechanics?",
+                "options": ["A. Space", "B. Time", "C. Mass", "D. Color"],
+                "answer": ["A. Space", "B. Time", "C. Mass"],
+                "difficulty": "Easy",
+                "type": "MAQ"
+            },
+            {
+                "question": "Mechanics is foundational in ______, astronomy, biology, and everyday life.",
+                "answer": ["engineering"],
+                "difficulty": "Easy",
+                "type": "FITB"
+            },
+            {
+                "question": "If a car accelerates from rest to 20 m/s in 5 seconds, what is its acceleration? (Use a = Δv/Δt)",
+                "answer": ["4 m/s²"],
+                "difficulty": "Easy",
+                "type": "NUMERICAL"
+            }
+        ]
+    },
+    {
+        "chapter": "Gravitation",
+        "content": [
+            {
+                "question": "Mechanics is a branch of physics that explores the behavior of physical bodies influenced by forces or displacements.",
+                "answer": ["True"],
+                "difficulty": "Easy",
+                "type": "TF"
+            },
+            {
+                "question": "Who among the following is known for significant contributions to classical mechanics?",
+                "options": ["A. Albert Einstein", "B. Niels Bohr", "C. Isaac Newton", "D. Max Planck"],
+                "answer": ["C. Isaac Newton"],
+                "difficulty": "Easy",
+                "type": "MCQ"
+            },
+            {
+                "question": "Which of the following are fundamental concepts in mechanics?",
+                "options": ["A. Space", "B. Time", "C. Mass", "D. Color"],
+                "answer": ["A. Space", "B. Time", "C. Mass"],
+                "difficulty": "Easy",
+                "type": "MAQ"
+            },
+            {
+                "question": "Mechanics is foundational in ______, astronomy, biology, and everyday life.",
+                "answer": ["engineering"],
+                "difficulty": "Easy",
+                "type": "FITB"
+            },
+            {
+                "question": "If a car accelerates from rest to 20 m/s in 5 seconds, what is its acceleration? (Use a = Δv/Δt)",
+                "answer": ["4 m/s²"],
+                "difficulty": "Easy",
+                "type": "NUMERICAL"
+            }
+        ]
+    },
+    {
+        "chapter": "Fluid Mechanics",
+        "content": [
+            {
+                "question": "Mechanics is a branch of physics that explores the behavior of physical bodies influenced by forces or displacements.",
+                "answer": ["True"],
+                "difficulty": "Easy",
+                "type": "TF"
+            },
+            {
+                "question": "Who among the following is known for significant contributions to classical mechanics?",
+                "options": ["A. Albert Einstein", "B. Niels Bohr", "C. Isaac Newton", "D. Max Planck"],
+                "answer": ["C. Isaac Newton"],
+                "difficulty": "Easy",
+                "type": "MCQ"
+            },
+            {
+                "question": "Which of the following are fundamental concepts in mechanics?",
+                "options": ["A. Space", "B. Time", "C. Mass", "D. Color"],
+                "answer": ["A. Space", "B. Time", "C. Mass"],
+                "difficulty": "Easy",
+                "type": "MAQ"
+            },
+            {
+                "question": "Mechanics is foundational in ______, astronomy, biology, and everyday life.",
+                "answer": ["engineering"],
+                "difficulty": "Easy",
+                "type": "FITB"
+            },
+            {
+                "question": "If a car accelerates from rest to 20 m/s in 5 seconds, what is its acceleration? (Use a = Δv/Δt)",
+                "answer": ["4 m/s²"],
+                "difficulty": "Easy",
+                "type": "NUMERICAL"
+            }
+        ]
+    }
+]
